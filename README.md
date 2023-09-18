@@ -1,2 +1,2 @@
-# MundoManga
-venta de manga y comics
+# InsideFriki
+Venta de consolas, videojuegos, comics, manga y mucho mas
